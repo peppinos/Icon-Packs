@@ -1,0 +1,35 @@
+{ 
+"wallpapers": 
+	[
+		{
+			"author": "PEPPINOS",
+			"url": "https://raw.githubusercontent.com/peppinos/Icon-Packs/master/Wallpapers/Wall1.gif",
+			"name": "StainedGlassPattern1"
+		},
+		{
+			"author": "PEPPINOS",
+			"url": "https://raw.githubusercontent.com/peppinos/Icon-Packs/master/Wallpapers/Wall2.gif",
+			"name": "StainedGlassPattern2"
+		},
+		{
+			"author": "PEPPINOS",
+			"url": "https://raw.githubusercontent.com/peppinos/Icon-Packs/master/Wallpapers/Wall3.gif",
+			"name": "StainedGlassPattern3"
+		},
+		{
+			"author": "PEPPINOS",
+			"url": "https://raw.githubusercontent.com/peppinos/Icon-Packs/master/Wallpapers/Wall4.gif",
+			"name": "StainedGlassPattern4"
+		},
+		{
+			"author": "PEPPINOS",
+			"url": "https://raw.githubusercontent.com/peppinos/Icon-Packs/master/Wallpapers/Wall5.gif",
+			"name": "StainedGlassPattern5"
+		},
+		{
+			"author": "PEPPINOS",
+			"url": "https://raw.githubusercontent.com/peppinos/Icon-Packs/master/Wallpapers/Wall6.gif",
+			"name": "StainedGlassPattern6"
+		}
+	]
+}
